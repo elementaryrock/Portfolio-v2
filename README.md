@@ -74,9 +74,6 @@ Portfolio-v2/
 - `postcss.config.js` - PostCSS configuration
 - `eslint.config.js` - ESLint configuration
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
